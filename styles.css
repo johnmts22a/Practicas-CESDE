@@ -22,7 +22,36 @@ header {
     height: 100px;
 }
 
+.aside2{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: flex-start;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto;
+}
+
 footer{
     text-align: center;
     background-color: aqua;
+}
+
+.box1{
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    width: 600px;
+    height: 300px;
+}
+
+.box2{
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    width: 600px;
+    height: 200px;
 }
