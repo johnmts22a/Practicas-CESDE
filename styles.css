@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+    background-color: aqua;
+}
+
+.aside1{
+  text-align: center;
+  background-color: aliceblue;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.box {
+    border: 3px solid black;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+    width: 100%;
+    height: 100px;
+}
+
+footer{
+    text-align: center;
+    background-color: aqua;
+}
